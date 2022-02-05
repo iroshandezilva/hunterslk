@@ -1,0 +1,23 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "custom.css";
+
+
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+h1{
+font-family: 'Outfit', sans-serif;
+}
+
+h1{
+font-family: 'Outfit', sans-serif;
+}
+
+h1{
+font-family: 'Outfit', sans-serif;
+}
